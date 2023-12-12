@@ -1,4 +1,7 @@
-a=10
+jjj
+jkkka=10
+dss
+ss
 b=20
 c=a+b
 print(c)
